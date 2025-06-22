@@ -24,3 +24,13 @@ pip install mirrorbuddy
 # Or, if you have multiple Python versions installed:
 
 python -m pip install mirrorbuddy
+
+---
+## How to use it?
+
+from main import main
+main.clone()
+
+---
+
+
